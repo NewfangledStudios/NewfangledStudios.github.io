@@ -1,0 +1,83 @@
+Front Page | Newfangled Studios
+
+The front page is a portal to all of the content that is located on your site. The front page features a dynamic content grid that will allow an employee to select highlighted content to display, in order to easily keep the site updated. 
+ 
+The header should contain basic contact information with a very clear link to the contact page.
+
+--
+
+Our Story | Newfangled
+
+Our Story is a static page to describe to clients how Newfangled has gotten to where it is today. This page can also contain images or footage to showcase the office space and company culture.
+
+--
+
+Meet the Team| Newfangled
+
+Meet the team is a dynamic page with a gallery style that will be linked in the header.
+
+--
+
+Contact | Newfangled
+
+A simple contact form that is in line with branding and does not remove client from browser, and will be linked in the header.
+
+--
+
+Jobs | Newfangled Studios
+
+The jobs/career page is a static listing site with instructions on how to apply and will be linked in the header.
+
+--
+
+Case Studies | Newfangled Studios
+
+The Case Studies page will be a portal style page that displays in a list pattern with links to video/information, and will be linked in the header.
+
+--
+
+Reel | Newfangled
+
+The reel is the first thing visitors will see, and will be the width of the page. This will not play automatically, however very inviting call to action buttons will encourage visitor's to not only play the video, but should also be prompted to explore the site at the completion of the video.
+
+--
+
+Portfolio | Newfangled
+
+This is the actual location for entire portfolio site. Selected content can be featured on the home page.
+
+--
+
+Clients | Newfangled
+
+A gallery style page to showcase all highlighted clients
+
+--
+
+Clients | Newfangled
+
+Clients page could contain a gallery of work done for highlighted clients.
+
+--
+
+Case Studies | Newfangled
+
+The Case study page will be a dynamic page. It will contain video, and a section below the video to describe the process. There can be a separate text section that is highlighted for "fun facts", as well as an area to link to other relevant work in the same category.
+
+--
+
+Meet Macaela | Newfangled
+
+Each team member has their own site with information about them and links to their favorite content
+
+--
+
+Category | Newfangled
+
+This dynamic content will display a highlight video on the home page, and when clicked will bring you to the portfolio page that displays all videos in this category. This is the meat of the home page and can be changed whenever you want.
+
+--
+
+Video | Newfangled
+
+This video has its own page, with consitency to the case studies individual pages.
